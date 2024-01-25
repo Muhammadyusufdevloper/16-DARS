@@ -106,18 +106,22 @@ nav{
 .light #header,
 .light #hero,
 .light #articles,
-.light #gaming  {
+.light #gaming,
+.light #community,
+.light #sponsors,
+.light #cloud {
     background-color: white;
 }
 .light #header,
-.light #hero{
+.light #hero,
+.light #community{
     background-image: none;
 }
 .light #gaming{
     background:none;
 }
 .light .button__wrapp:hover{
-    background-color: #fff;
+    background-color:  #FAC422;
 }
 .light .nav__link {
     color: #000;
@@ -128,7 +132,10 @@ nav{
 .light #header *,
 .light #hero *,
 .light #articles *,
-.light #gaming * {
+.light #gaming *,
+.light #community *,
+.light #sponsors *,
+.light #cloud *{
     color: rgb(0, 0, 0);
 }
 .light .light__mod{

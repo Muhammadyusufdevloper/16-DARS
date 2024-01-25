@@ -494,7 +494,9 @@
     }
 }
 @media (max-width:360px){
-
+    .nav__btns__contact{
+        display: none;
+    }
     .sponsors__bottom__img{
         max-width: 150px;
     }

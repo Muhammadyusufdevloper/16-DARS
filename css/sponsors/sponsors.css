@@ -61,7 +61,8 @@
         font-size: 28px;
     }
     .sponsors__top__card__img{
-        left: 120px;
+        width: 120px !important;
+        left: 100px;
     }
     .sponsors__top__text{
         font-size: 10px;
